@@ -34,11 +34,25 @@ The notebook includes the implementation and evaluation of various ensemble lear
    2. Visualizations include box plots for cross-validation accuracy and confusion matrices.
       
 **Explainability:**  SHAP, LIME
+
+**Setup Instructions**
+
+   1. **Clone the repository:** git clone https://github.com/your-username/credit-risk-loan-approval.git
+   2. **Install dependencies:** pip install -r requirements.txt
+   3. **Run the Jupyter Notebook:** Jupiter notebook
+
+**Requirements**
+   1. **Python:** 3.8+
+   2. **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost, shape, lime
+   3. **Install all dependencies using:** pip install -r requirements.txt
+
    
 **Results**
 
    1. Best Model: Identified using cross-validation accuracy and F1 score.
+
       2. Ensemble techniques, particularly stacking and boosting, provided robust performance.
+         
       3. Explainability techniques offered valuable insights into model decisions.
 
 
