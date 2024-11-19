@@ -51,9 +51,9 @@ The notebook includes the implementation and evaluation of various ensemble lear
 
    1. Best Model: Identified using cross-validation accuracy and F1 score.
 
-      2. Ensemble techniques, particularly stacking and boosting, provided robust performance.
+   2. Ensemble techniques, particularly stacking and boosting, provided robust performance.
          
-      3. Explainability techniques offered valuable insights into model decisions.
+   3. Explainability techniques offered valuable insights into model decisions.
 
 
 
