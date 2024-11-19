@@ -34,18 +34,18 @@ The notebook includes the implementation and evaluation of various ensemble lear
    2. Visualizations include box plots for cross-validation accuracy and confusion matrices.
       
 **Explainability**
-
+   
    SHAP, LIME
 
 **Usage**
-.
+
     **1. Dataset Preparation:** Load the dataset and preprocess it using the provided notebook.
     **2. Model Training:** Execute the ensemble models implemented in the notebook.
     **3. Model Evaluation:** Analyze performance metrics and model explainability using SHAP and LIME.
     **4. Deployment:** Use the best-performing model for real-world prediction tasks.
    
 **Results**
-.
+
       1. Best Model: Identified using cross-validation accuracy and F1 score.
       2. Ensemble techniques, particularly stacking and boosting, provided robust performance.
       3. Explainability techniques offered valuable insights into model decisions.
