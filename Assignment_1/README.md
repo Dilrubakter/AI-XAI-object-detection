@@ -2,6 +2,7 @@
 
 Loan Approval Prediction Using Ensemble Methods
 
+
 **Overview**
 
 This repository contains a comprehensive analysis and predictive modelling project based on a synthetic dataset inspired by real-world credit risk data. The project applies machine learning techniques, including ensemble methods, to predict loan approval statuses and evaluate financial risk factors. The models accurately classify loan applications as approved or rejected based on multiple financial and personal features.
